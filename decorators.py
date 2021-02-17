@@ -24,6 +24,8 @@ print(get_admin_passwd())
 print(get_admin_passwd.__name__)
 print(get_admin_passwd.__doc__)
 
+print("Hello this is for GIT")
+print("Hello this is for GITDemo")
 
 """
 def outer_function(x):
